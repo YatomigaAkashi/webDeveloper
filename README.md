@@ -6,6 +6,10 @@
 
 - [准备](01-准备/README.md)
 
+- [页面结构标签在HTML与CSS中使用规范](02-页面结构标签在HTML与CSS中使用规范/README.md)
+
+- [HTML文本语义标签](03-HTML文本语义标签/README.md)
+
 ## 资源
 
 - 视频  [后盾人教程](https://space.bilibili.com/282190994)
