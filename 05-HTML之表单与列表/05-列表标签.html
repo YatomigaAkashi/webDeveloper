@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>列表标签</title>
+</head>
+<body>
+    <form action="">
+        <fieldset>
+            <legend>单选列表</legend>
+            <label>单选基本列表
+                <select name="data[]">
+                    <option value="1">数学</option>
+                    <option value="2">物理</option>
+                    <option value="3">化学</option>
+                </select>
+            </label><br>
+
+            <label>单选带默认值列表
+                <select>
+                    <option value="1">数学</option>
+                    <option value="2" selected>物理</option>
+                    <option value="3">化学</option>
+                </select>
+            </label><br>
+
+            <label>单选选项分组列表
+                <select>
+                    <optgroup label="理科">
+                        <option value="1">数学</option>
+                        <option value="2">物理</option>
+                        <option value="3">化学</option>
+                    </optgroup>
+                    <optgroup label="文科">
+                        <option value="1">语文</option>
+                        <option value="2">英语</option>
+                        <option value="3">政治</option>
+                    </optgroup>
+                </select>
+            </label><br>
+
+            <label>多选列表
+                <select multiple="multiple">
+                    <option value="1">数学</option>
+                    <option value="2">物理</option>
+                    <option value="3">化学</option>
+                </select>
+            </label><br>
+        </fieldset>
+    </form>
+</body>
+</html>

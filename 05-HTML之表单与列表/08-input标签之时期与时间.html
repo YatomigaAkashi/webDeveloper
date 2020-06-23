@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>input标签之时期与时间.html</title>
+</head>
+<body>
+    <form action="">
+        <fieldset>
+            <legend>时期与时间</legend>
+            <label>日期
+                <input type="date">
+            </label><br>
+            <label>时间
+                <input type="time">
+            </label>
+            <label>周
+                <input type="week">
+            </label><br>
+            <label>月
+                <input type="month">
+            </label><br>
+            <label>本地时间
+                <input type="datetime-local">
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>起始时间，终止时间与步长</legend>
+            <label>起始时间
+                <input type="date" min="2020-01-01">
+            </label><br>
+            <label>终止时间
+                <input type="date" min="2020-01-01" max="2029-12-31">
+            </label><br>
+            <label>步长
+                <input type="date" min="2020-01-01" max="2029-12-31" step="5">
+            </label>
+        </fieldset>
+    </form>
+</body>
+</html>
