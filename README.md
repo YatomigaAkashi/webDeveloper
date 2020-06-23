@@ -14,6 +14,8 @@
 
 - [HTML之表单与列表](05-HTML之表单与列表/README.md)
 
+- [HTML之表格与多媒体](06-HTML表格与多媒体/README.md)
+
 ## 资源
 
 - 视频  [后盾人教程](https://space.bilibili.com/282190994)
