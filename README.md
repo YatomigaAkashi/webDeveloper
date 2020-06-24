@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [准备](01-准备/README.md)
+- [HTML之起步](01-HTML之起步/README.md)
 
 - [HTML之页面结构标签](02-HTML之页面结构标签/README.md)
 
@@ -15,6 +15,8 @@
 - [HTML之表单与列表](05-HTML之表单与列表/README.md)
 
 - [HTML之表格与多媒体](06-HTML表格与多媒体/README.md)
+
+- [CSS之起步](07-CSS之起步/README.md)
 
 ## 资源
 
